@@ -2,7 +2,7 @@
 
 # Install:
 ```console
-go install github.com/S3cr3t-SDN/NoWayBack@latest
+go install github.com/S3cr3t-SDN/NoWayBack@v1.0.0
 ```
 
 # Usage:
